@@ -18,18 +18,17 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Research Assistant"
+  company = "Multidisciplinary Simulation, Estimation, Assimilation Systems (MSEAS) Lab, MIT"
+  company_url = "http://mseas.mit.edu/"
+  location = "Cambridge, MA"
+  date_start = "2017-01-10"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Research Profile:
+
+  * Advancing algorithms on the intersection of uncertainty quantification, Bayesian modeling and inference, machine learning, and data-driven scientific computing   for high-dimensional and multidisciplinary problems
+  * Developing a partial-differential-equations-based Bayesian machine learning framework for model discovery; has applications in learning ocean ecosystem models,   sustainable fisheries management, brain tumor modeling and more
   """
 
 [[experience]]
