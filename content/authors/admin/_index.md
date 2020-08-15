@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Abhinav Gupta
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Mechanical Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Massachusetts Institute of Technology
+  url: "http://mit.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: PhD candidate aspiring to launch a career in solving complex real-world problems for industry-leading businesses as a consultant/data scientist.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Bayesian  Modeling  and  Inference
+- Uncertainty  Quantification
+- Ocean Modeling
+- Optimal Sampling
+- Numerical  Methods
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: PhD in Mechanical Engineering
     institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2021
+  - course: Master's and Bachelor's in Mechanical Engineering
+    institution: Indian Institute of Technology Kanpur
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,32 +44,34 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:guptaa@mit.edu".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/gabhinav0110
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/abhinavgupta0110/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/gabhinav0110
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/Gupta_Abhinav_1Page.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+As a PhD candidate at MIT, I develop state-of-the-art algorithms and methodologies for uncertainty quantification, Bayesian learning, machine learning, and numerical methods for predictive ocean applications. The algorithms in my research are problem agnostic, and can be widely applied. For example, we worked on adapting our ocean uncertainty quantification and learning algorithms to simulate the growth of brain tumors.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My unique background in mechanical engineering, applied mathematics, and computing positions me to identify academically understood cross-disciplinary solutions and translate them to solve real-world challenges.
+
+Outside the lab, I could be found cooking traditional Indian cuisine for my friends, or organizing social events as part of various student organizations. 
