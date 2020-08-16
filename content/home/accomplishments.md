@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "MIT-Tata Center for Technology & Design"
   organization_url = "https://tatacenter.mit.edu/"
-  title = "MIT-Tata Center for Technology & Design"
+  title = "MIT-Tata Center for Technology & Design Fellow"
   url = ""
   certificate_url = ""
   date_start = "2018-06-01"
