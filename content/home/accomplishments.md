@@ -42,11 +42,21 @@ communities by interviewing Indian fishermen, non-profits, and government instit
 [[item]]
   organization = "Indian Institute of Technology Kanpur"
   organization_url = "https://www.iitk.ac.in"
-  title = "General Proficiency Medal; Banco Foundation Award"
+  title = "General Proficiency Medal | Banco Foundation Award | OP Bajaj Memorial Award"
   url = ""
   certificate_url = ""
   date_start = "2016-06-01"
   date_end = ""
-  description = ""
+  description = """For the best academic performance in the department of Mechanical Engineering."""
+  
+  [[item]]
+  organization = "Society for Industrial and Applied Mathematics (SIAM)"
+  organization_url = "https://www.siam.org/"
+  title = "SIAM Student Travel Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-03-01"
+  date_end = ""
+  description = """For attending the Uncertainty Quantification 2020 conference."""
 
 +++
