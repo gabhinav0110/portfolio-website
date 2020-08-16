@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-09-01"
   date_end = "2020-05-31"
-  description = "Awarded to 3 out of 500 graduate students for exceptional academic performance"
+  description = """Awarded to 3 out of 500 graduate students for exceptional academic performance"""
 
 [[item]]
   organization = "MIT-Tata Center for Technology & Design"
@@ -36,8 +36,8 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-06-01"
   date_end = "2020-05-31"
-  description = "Studied interplay of technology, entrepreneurship, and policy; and deepened perspectives on severely resource-constrained
-communities by interviewing Indian fishermen, non-profits, and government institutions."
+  description = """Studied interplay of technology, entrepreneurship, and policy; and deepened perspectives on severely resource-constrained
+communities by interviewing Indian fishermen, non-profits, and government institutions."""
   
 [[item]]
   organization = "Indian Institute of Technology Kanpur"
