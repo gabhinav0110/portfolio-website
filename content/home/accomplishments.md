@@ -67,6 +67,6 @@ communities by interviewing Indian fishermen, non-profits, and government instit
   certificate_url = ""
   date_start = "2014-05-01"
   date_end = "2014-07-31"
-  description = """For Research Internship at the Massachusetts Institute of Technology (MIT)."""
+  description = """Offered to select undergraduates to perform research in the United States."""
 
 +++
