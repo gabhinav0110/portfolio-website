@@ -58,5 +58,15 @@ communities by interviewing Indian fishermen, non-profits, and government instit
   date_start = "2020-03-01"
   date_end = ""
   description = """For attending the Uncertainty Quantification 2020 conference."""
+  
+  [[item]]
+  organization = "Indo-U.S. Science and Technology Forum (IUSSTF)"
+  organization_url = "https://iusstf.org/program/for-indian-students"
+  title = "S.N. Bose Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-05-01"
+  date_end = "2014-07-31"
+  description = """For Research Internship at the Massachusetts Institute of Technology (MIT)."""
 
 +++
