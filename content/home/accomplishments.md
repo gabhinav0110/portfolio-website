@@ -67,6 +67,6 @@ communities by interviewing Indian fishermen, non-profits, and government instit
   certificate_url = ""
   date_start = "2014-05-01"
   date_end = "2014-07-31"
-  description = """Offered to select undergraduates to perform research in the United States."""
+  description = """Offered to select Indian studnets to experience world-class research facilities in leading U.S. institutions."""
 
 +++
