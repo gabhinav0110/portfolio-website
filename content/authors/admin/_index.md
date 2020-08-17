@@ -56,9 +56,9 @@ social:
   link: https://github.com/gabhinav0110
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: file-pdf
-  icon_pack: fas
-  link: files/Gupta_Abhinav_1Page.pdf
+# - icon: file-pdf
+#   icon_pack: fas
+#   link: files/Gupta_Abhinav_1Page.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
