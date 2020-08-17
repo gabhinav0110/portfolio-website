@@ -3,6 +3,7 @@ title: Multiscale Gaussian Process Regression
 summary: Here we describe how to add a page to your site.
 date: "2020-08-17T19:02:09-04:00"
 draft: false
+view: 3
 
 # Optional header image (relative to `static/img/` folder).
 header:
