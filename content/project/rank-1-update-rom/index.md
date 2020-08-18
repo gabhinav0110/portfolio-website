@@ -1,6 +1,6 @@
 ---
 title: Active rank-1 updates to POD based reduced order models
-summary: Implementation  of  Machine Learning  algorithms  for  solving  nonlinear  partial  differential equations, in a hybrid framework.
+summary: Investigation of a method for efficiently updating a reduced order model online, as new data becomes available corresponding to system changes.
 tags:
 - Reduced Order Modeling
 date: "2020-08-17T19:02:09-04:00"
