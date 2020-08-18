@@ -8,9 +8,9 @@ date: "2020-08-17T19:02:09-04:00"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption: Weighted Mixture of GPs
-  focal_point: GMM_indiv_post.png
+# image:
+#   caption: Weighted Mixture of GPs
+#   focal_point: GMM_indiv_post.png
 
 # links:
 # - icon: twitter
