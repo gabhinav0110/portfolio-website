@@ -16,6 +16,8 @@ role: PhD Candidate in Mechanical Engineering
 organizations:
 - name: Massachusetts Institute of Technology
   url: "http://mit.edu/"
+- name: MSEAS Lab
+  url: "http://mseas.mit.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: PhD candidate aspiring to launch a career in solving complex real-world problems for industry-leading businesses as a consultant/data scientist.
