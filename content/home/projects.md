@@ -32,6 +32,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Scientific ML"
     tag = "Scientific ML"
+    
+  [[content.filter_button]]
+    name = "Reduced Order Modeling"
+    tag = "Reduced Order Modeling"
   
   # [[content.filter_button]]
   #   name = "Other"
