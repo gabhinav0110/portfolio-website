@@ -10,7 +10,7 @@ external_link: ""
 
 image:
   caption: Weighted Mixture of GPs
-  focal_point: GMM_indiv_post.png
+  focal_point: Smart
 
 # links:
 # - icon: twitter
