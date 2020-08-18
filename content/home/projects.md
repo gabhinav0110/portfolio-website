@@ -28,6 +28,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Bayesian Learning"
     tag = "Bayesian Learning"
+    
+  [[content.filter_button]]
+    name = "Scientific ML"
+    tag = "Scientific ML"
   
   # [[content.filter_button]]
   #   name = "Other"
