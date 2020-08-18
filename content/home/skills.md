@@ -20,6 +20,12 @@ subtitle = ""
   name = "Python"
   description = "70%"
   
+  [[feature]]
+  icon = "matlab"
+  icon_pack = "custom"
+  name = "MATLAB"
+  description = "90%"
+  
 [[feature]]
   icon = "brain"
   icon_pack = "fas"
