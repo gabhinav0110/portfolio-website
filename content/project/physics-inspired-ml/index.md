@@ -2,7 +2,7 @@
 title: Physics-Inspired Machine Learning for PDEs
 summary: Implementation  of  Machine Learning  algorithms  for  solving  nonlinear  partial  differential equations, in a hybrid framework.
 tags:
-- Deep Learning
+- Scientific ML
 date: "2020-08-17T19:02:09-04:00"
 
 # Optional external URL for project (replaces project detail page).
