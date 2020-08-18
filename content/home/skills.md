@@ -30,7 +30,7 @@ subtitle = ""
   icon = "drumstick-bite"
   icon_pack = "fas"
   name = "Cooking"
-  description = "50%"
+  description = "150%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
