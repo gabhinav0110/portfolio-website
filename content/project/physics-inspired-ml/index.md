@@ -9,7 +9,7 @@ date: "2020-08-17T19:02:09-04:00"
 external_link: ""
 
 image:
-  caption: The implemented LSTM-RNN architecture coupledwith the evolution equations
+  caption: The implemented LSTM-RNN architecture coupled with the evolution equations
   focal_point: Smart
 
 # links:
