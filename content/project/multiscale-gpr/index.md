@@ -4,7 +4,6 @@ summary: Investigating weighted mix-ture of GPs method for handling multiscale f
 tags:
 - Bayesian Learning
 date: "2020-08-17T19:02:09-04:00"
-math: true
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
