@@ -56,7 +56,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/gabhinav0110
- - icon: orcid
+- icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0002-9197-0736
 # Link to a PDF of your resume/CV from the About widget.
