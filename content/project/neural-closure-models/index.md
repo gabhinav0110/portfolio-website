@@ -3,6 +3,7 @@ title: Neural Closure Models for Dynamical Systems
 summary: Developed a novel, versatile, and rigorous methodology to learn non-Markovian closure parameterizations for low-fidelity models using data from high-fidelity simulations.
 tags:
 - Scientific ML
+- Reduced Order Modeling
 date: "2021-01-18T19:02:09-04:00"
 
 # Optional external URL for project (replaces project detail page).
