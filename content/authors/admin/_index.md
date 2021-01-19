@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Mechanical Engineering
+role: PhD Candidate in Mechanical Engineering and Computation
 
 # Organizations/Affiliations
 organizations:
@@ -23,7 +23,7 @@ organizations:
 bio: PhD candidate aspiring to launch a career in solving complex real-world problems for industry-leading businesses as a consultant/data scientist.
 
 interests:
-- Machine Learning
+- Deep Learning
 - Bayesian  Modeling  and  Inference
 - Uncertainty  Quantification
 - Ocean Modeling
@@ -32,7 +32,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Mechanical Engineering
+  - course: PhD in Mechanical Engineering and Computation
     institution: Massachusetts Institute of Technology
     year: 2021
   - course: Master's and Bachelor's in Mechanical Engineering
@@ -72,7 +72,7 @@ email: ""
 # - Visitors
 ---
 
-As a PhD candidate at MIT, I develop state-of-the-art algorithms and methodologies for uncertainty quantification, Bayesian learning, machine learning, and numerical methods for predictive ocean applications. The algorithms in my research are problem agnostic, and can be widely applied. For example, we worked on adapting our ocean uncertainty quantification and learning algorithms to simulate the growth of brain tumors.
+As a PhD candidate at MIT, I develop state-of-the-art algorithms and methodologies for uncertainty quantification, Bayesian learning, deep learning, and numerical methods for predictive ocean applications. The algorithms in my research are problem agnostic, and can be widely applied. For example, we worked on adapting our ocean uncertainty quantification and learning algorithms to simulate the growth of brain tumors.
 
 My unique background in mechanical engineering, applied mathematics, and computing positions me to identify academically understood cross-disciplinary solutions and translate them to solve real-world challenges.
 
