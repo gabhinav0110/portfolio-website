@@ -75,8 +75,8 @@ email: ""
 # - Visitors
 ---
 
-As a PhD candidate at MIT, I develop state-of-the-art algorithms and methodologies for uncertainty quantification, Bayesian learning, deep learning, and numerical methods for predictive ocean applications. The algorithms in my research are problem agnostic, and can be widely applied. For example, we worked on adapting our ocean uncertainty quantification and learning algorithms to simulate the growth of brain tumors.
+As a PhD candidate at MIT, I develop state-of-the-art algorithms and methodologies for uncertainty quantification, Bayesian learning, deep learning, and numerical methods for predictive ocean applications. The algorithms in my research are problem agnostic, and can be widely applied. 
 
-My unique background in mechanical engineering, applied mathematics, and computing positions me to identify academically understood cross-disciplinary solutions and translate them to solve real-world challenges.
+My unique background in mechanical engineering, applied mathematics, and computing position me to identify academically understood cross-disciplinary solutions and translate them to solve real-world challenges.
 
 Outside the lab, I could be found cooking traditional Indian cuisine for my friends, or organizing social events as part of various student organizations. 
