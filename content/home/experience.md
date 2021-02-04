@@ -29,6 +29,7 @@ date_format = "Jan 2006"
 
   * Advancing algorithms on the intersection of uncertainty quantification, Bayesian modeling and inference, machine learning, and data-driven scientific computing   for high-dimensional and multidisciplinary problems
   * Developing a partial-differential-equations-based Bayesian machine learning framework for model discovery; has applications in learning ocean ecosystem models,   sustainable fisheries management, brain tumor modeling and more
+  * Developed a delay-differential-equations based deep learning framework to learn closure models for dynamical systems; applications include capturing the effects of subgrid-scale processes in coarse models, simplification of complex biochemical models, and more
   
   Allied Contributions:
   * Developing collaboration protocols to facilitate multi-university-research project across 5 universities
