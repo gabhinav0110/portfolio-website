@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2020-09-01"
-  date_end = "2020-05-31"
+  date_end = "2021-05-31"
   description = """Awarded to 3 out of 500 graduate students for exceptional academic performance"""
 
 [[item]]
