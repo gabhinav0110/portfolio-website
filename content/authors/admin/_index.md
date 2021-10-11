@@ -20,7 +20,7 @@ organizations:
   url: "http://mit.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD candidate aspiring to launch a career in solving complex real-world problems for industry-leading businesses as a consultant/data scientist.
+bio: PhD candidate aspiring to launch a career in solving complex real-world problems for industry-leading businesses as a machine learning researcher.
 
 interests:
 - Deep Learning
@@ -34,7 +34,7 @@ education:
   courses:
   - course: PhD in Mechanical Engineering and Computation
     institution: Massachusetts Institute of Technology
-    year: 2021
+    year: 2022
   - course: Master's and Bachelor's in Mechanical Engineering
     institution: Indian Institute of Technology Kanpur
     year: 2016
