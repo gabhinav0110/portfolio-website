@@ -17,13 +17,25 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Senior Machine Learning Scientist, Next Generation Biologics Design"
+  company = "Sanofi"
+  company_url = "https://www.sanofi.com/"
+  location = "Cambridge, MA"
+  date_start = "2022-08-08"
+  date_end = ""
+  description = """
+  Working in an interdisciplinary team with the Sanofi Large Molecule Research Platform to apply cutting-edge computation, AI/ML/DL, and structural biology technologies to resolve challenges in real-world drug discovery and make impacts on patients’ life.
+  """
+
 [[experience]]
   title = "Research Assistant"
   company = "Multidisciplinary Simulation, Estimation, Assimilation Systems (MSEAS) Lab, MIT"
   company_url = "http://mseas.mit.edu/"
   location = "Cambridge, MA"
   date_start = "2017-01-10"
-  date_end = ""
+  date_end = "2022-07-29"
   description = """
   Research Profile:
 
