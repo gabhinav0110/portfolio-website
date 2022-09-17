@@ -10,19 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Mechanical Engineering and Computation
+role: Senior ML Scientist at Sanofi | MIT PhD in Mechanical Engineering and Computation
 
 # Organizations/Affiliations
 organizations:
+- name: Sanofi
+  url: "https://www.sanofi.com/"
 - name: MSEAS Lab
   url: "http://mseas.mit.edu/"
 - name: Massachusetts Institute of Technology
   url: "http://mit.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD candidate aspiring to launch a career in solving complex real-world problems for industry-leading businesses as a machine learning researcher.
+bio: Senior Machine Learning Researcher Working at Sanofi apply cutting-edge computation, AI/ML/DL, and structural biology technologies to resolve challenges in real-world drug discovery.
 
 interests:
+- Computational Biology
 - Deep Learning
 - Bayesian  Modeling  and  Inference
 - Uncertainty  Quantification
@@ -46,7 +49,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:guptaa@mit.edu".
+  link: '#contact'  # For a direct email link, use "mailto:abhinavgupta0110@gmail.com".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/gabhinav0110
@@ -75,8 +78,8 @@ email: ""
 # - Visitors
 ---
 
-As a PhD candidate at MIT, I develop state-of-the-art algorithms and methodologies for uncertainty quantification, Bayesian learning, deep learning, and numerical methods for predictive ocean applications. The algorithms in my research are problem agnostic, and can be widely applied. 
+Recently started working at Sanofi to apply cutting-edge computation, AI/ML/DL, and structural biology technologies to resolve challenges in real-world drug discovery.
 
-My unique background in mechanical engineering, applied mathematics, and computing position me to identify academically understood cross-disciplinary solutions and translate them to solve real-world challenges.
+As a part of my PhD at MIT, I developed state-of-the-art algorithms and methodologies for uncertainty quantification, Bayesian learning, deep learning, and numerical methods for predictive ocean applications. The algorithms developed in my research were problem agnostic, and could be widely applied. 
 
-Outside the lab, I could be found cooking traditional Indian cuisine for my friends, or organizing social events as part of various student organizations. 
+My unique background in mechanical engineering, computational biology, applied mathematics, and computing position me to identify academically understood cross-disciplinary solutions and translate them to solve real-world challenges. 
