@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Department of Mechanical Engineering, MIT"
+  organization_url = "https://meche.mit.edu/"
+  title = "Wunsch Foundation Silent Hoist and Crane Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2022-05-01"
+  date_end = ""
+  description = """Awarded for Outstanding Graduate Student"""
+
+[[item]]
   organization = "MathWorks"
   organization_url = "https://www.mathworks.com/"
   title = "MathWorks Mechanical Engineering Fellowship"
@@ -27,6 +37,16 @@ date_format = "Jan 2006"
   date_start = "2020-09-01"
   date_end = "2021-05-31"
   description = """Awarded to 3 out of 500 graduate students for exceptional academic performance"""
+  
+[[item]]
+  organization = "The Center for Computational Science and Engineering, MIT"
+  organization_url = "https://cse.mit.edu/"
+  title = "Best Poster Award"
+  url = "https://cse.mit.edu/events/symposium21/"
+  certificate_url = ""
+  date_start = "2021-03-15"
+  date_end = ""
+  description = """For the poster titled "Neural Closure Models for Dynamical Systems" at the "Annual MIT CCSE Symposium" """
 
 [[item]]
   organization = "MIT-Tata Center for Technology & Design"
