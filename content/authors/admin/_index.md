@@ -78,7 +78,7 @@ email: ""
 # - Visitors
 ---
 
-Recently started working at Sanofi to apply cutting-edge computation, AI/ML/DL, and structural biology technologies to resolve challenges in real-world drug discovery.
+Working at Sanofi to apply cutting-edge computation, AI/ML/DL, and structural biology technologies to resolve challenges in real-world drug discovery.
 
 As a part of my PhD at MIT, I developed state-of-the-art algorithms and methodologies for uncertainty quantification, Bayesian learning, deep learning, and numerical methods for predictive ocean applications. The algorithms developed in my research were problem agnostic, and could be widely applied. 
 
